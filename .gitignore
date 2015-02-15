@@ -1,0 +1,8 @@
+syntax: glob
+
+bin
+*.zip
+*.jar
+*.class
+*~
+
